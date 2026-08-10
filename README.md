@@ -1,5 +1,5 @@
 [notebook_lucas_revisado.ipynb](https://github.com/user-attachments/files/30882542/notebook_lucas_revisado.ipynb)
-# python-basics-sprint-2{
+# python-basics-sprint-2
  "cells": [
   {
    "cell_type": "markdown",
